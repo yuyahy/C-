@@ -10,5 +10,4 @@ int main()
   cout << "あなたの名前を入力してください。" <<endl;
   cin >> name;
   cout<<name<<"さん。よろしく。"<<endl;
-
 }
